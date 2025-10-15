@@ -1,0 +1,8 @@
+Problem Statement:
+ - The dataset contains extensive transactional records with minimal prior labeling, making it challenging to understand inherent patterns or relationships among data points.
+
+ - The primary goal is to explore and uncover natural groupings or structures within the data using clustering techniques, without relying on predefined categories.
+
+ - By applying unsupervised learning, the project aims to identify hidden patterns, similarities, and anomalies that can provide deeper insights into customer behavior and operational trends.
+
+ - The outcome is expected to support data-driven decision-making—enabling segmentation, trend detection, and strategic planning across business or analytical functions.
